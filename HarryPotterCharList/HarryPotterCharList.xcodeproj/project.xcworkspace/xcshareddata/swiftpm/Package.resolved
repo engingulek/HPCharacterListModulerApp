@@ -1,0 +1,95 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "hpcorekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPCoreKit",
+      "state" : {
+        "revision" : "6d927b80568ee54835c1cc117e898a8d6d39741f",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hpdependencykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPDependencyKit",
+      "state" : {
+        "revision" : "c9305c28ff55ad6eb257fbcfd014f49be7d8f47a",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hpdetailmodule",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPDetailModule",
+      "state" : {
+        "revision" : "70c36442df2378bc218a85287715ccd01b5f91fd",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hphomemodule",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPHomeModule",
+      "state" : {
+        "revision" : "3683c115f5a5dc46193324d0b85b055f0b7b7108",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hpmodularprotocolskit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPModularProtocolsKit",
+      "state" : {
+        "revision" : "4864452e639133e652d4f075e555c17c16eb2cb9",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hpnavigationkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPNavigationKit",
+      "state" : {
+        "revision" : "03ccac0b842a61ef89a761eb7efdb5aed23b17d3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hpnetworkkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/engingulek/HPNetworkKit",
+      "state" : {
+        "revision" : "569821a382aee5ab9f505385b1cfadf4be943ba1",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "4c6b067f96953ee19526e49e4189403a2be21fb3",
+        "version" : "8.3.1"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "be9dbcc7b86811bc131539a20c6f9c2d3e56919f",
+        "version" : "2.9.1"
+      }
+    }
+  ],
+  "version" : 2
+}
